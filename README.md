@@ -1,1 +1,1 @@
-# efcoreplayground
+# Entity Framework Core Playground
